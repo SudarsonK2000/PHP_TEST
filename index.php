@@ -3,7 +3,7 @@
   <title>Index</title>
  </head>
  <body>
- <?php echo '<p>Muni Ratnam, 
+ <?php echo '<p>Narayan K, 
                 Software Engineer-DevOps, 
                 Golden-Hippo Technology,Madurai</p>'; ?> 
  </body>
