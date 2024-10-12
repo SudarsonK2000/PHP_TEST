@@ -1,6 +1,6 @@
 <html>
  <head>
-  <title>Index</title>
+  <title>Details</title>
  </head>
  <body>
  <?php echo '<p>Narayan Sudarson K, 
